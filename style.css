@@ -1,0 +1,71 @@
+.container{
+        margin-bottom: 150px;
+}
+.carousel-item{
+        padding: 20px 40px;
+}
+.price{
+        color: #FF136F;
+}
+.button-design{
+        background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;
+}
+.bg-color{
+        background-color: #fceae8;
+        border-radius: 10px;
+}
+.categories h1{
+        color: #fff;
+
+}
+.categories img{
+        width: 100px;
+}
+.watch,.bag,.shoe{
+        padding: 10px 30px;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+}
+.watch{
+        background-color:orange;
+}
+.bag{
+        background-color:lightblue;
+}
+.shoe{
+        background-color:lightgreen;
+}
+.card-footer{
+        border-top: none;
+        background-color: #fff;
+}
+.card{
+        border: none;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px lightgray;
+}
+.button-design2{
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;
+        background-color: black;
+}
+#contact{
+        height: 300px;
+}
+#contact h6{
+        color: gray;
+}
+footer{
+        text-align: center;
+}
